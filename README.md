@@ -28,10 +28,9 @@ Mi nombre de usuario en steam es [LOSER], pueden agrerme por si quieren jugarðŸŽ
 
 [LOSER]: https://steamcommunity.com/profiles/76561198435117493/
 
-<img src="https://media.giphy.com/media/8RvL5KGDdP5i7Ns4gK/giphy.gif" width="300">
-
-
 Mis pasatiempos son escuchar musica, hacer ejercicio o jugar.
+
+<img src="https://media.giphy.com/media/8RvL5KGDdP5i7Ns4gK/giphy.gif" width="300">
 
 # Mis Obetivos
 
