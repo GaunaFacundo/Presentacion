@@ -32,7 +32,7 @@ Mis pasatiempos son escuchar musica, hacer ejercicio o jugar.
 
 <img src="https://media.giphy.com/media/8RvL5KGDdP5i7Ns4gK/giphy.gif" width="300">
 
-# Mis Obetivos
+# Mis Objetivos
 
 Ahora me gustaria terminar mis estudios sin problemas y conseguir mi titulo como tecnico avionico.
 
